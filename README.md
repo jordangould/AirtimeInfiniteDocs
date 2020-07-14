@@ -84,7 +84,7 @@ The custom firmware can be removed at anytime by simply following the [official 
 	- Drag/zoom the chart to update both the chart view and map view visible region.
 	- Touch a point on the chart to display the flight stats at that point on the top of the screen.
 	- Press the gear icon on the top right of the chart to select the data presented and modify chart settings such as scaling or measurement units.
-	- <img src="./Images/ruler.png" alt="Ruler" width="25" height="25"> - Select the ruler icon to place the chart and data view into measurement mode. The point highlighted when measurement mode is activated is the base (represented by a blue vertical line). Tap the chart to show the difference between stats between the base and the selected point. 
+	- <img src="./Images/ruler.png" alt="Ruler" width="25" height="25"> - Select the ruler icon to place the chart and data view into measurement mode. The point highlighted when measurement mode is activated is the base (represented by a blue vertical line). Tap the chart to show the difference in stats between the base and the selected point. 
 
 ## Support
 Contact <jordan.gould.dev@gmail.com>
