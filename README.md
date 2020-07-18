@@ -37,12 +37,12 @@ First time using **Airtime: Infinite**? "Too much power" warning? Skip to [Conne
 ## Connecting Your FlySight
 While **Airtime: Infinite** can load files from any location on your iOS device, most users will want to pull track files directly from their FlySight via USB. In order to connect a FlySight to your iOS device, you will need to purchase a USB to Lightning adapter. We recommend the [Apple Lightning to USB 3 Camera Adapter](https://www.apple.com/shop/product/MK0W2AM/A/lightning-to-usb-3-camera-adapter).
 
-**Note**: Non-powered adapters such as the [standard Apple Camera Adapter](https://www.apple.com/shop/product/MD821AM/A/lightning-to-usb-camera-adapter) may require your FlySight to run [custom firmware](#updating-the-flysight-firmware) in order to connect to your iOS device.
+**Note**: Non-powered adapters such as the [standard Apple Camera Adapter](https://www.apple.com/shop/product/MD821AM/A/lightning-to-usb-camera-adapter) may require your FlySight to run [custom firmware](#updating-the-flysight-firmware) and be >50% charged in order to connect to your iOS device.
 
 To connect your FlySight to your iOS device:
 1. Plug the Lightning power port on the Lightning to USB adapter into a power source. (if applicable)
 	- This can be a standard [Apple Power Brick](https://www.apple.com/shop/product/MD810LL/A/apple-5w-usb-power-adapter) or a [mobile USB power bank](https://www.amazon.com/BESTON-Portable-10000mAh-Recharge-External/dp/B07MX217G9).
-	- This step is only necessary if you are receiving a "Too much power" warning from iOS and do not wish to use our [custom FlySight firmware](#updating-the-flysight-firmware). 
+	- This step is only necessary if you are receiving a "Too much power" warning from iOS and do not wish to use our [custom FlySight firmware](#updating-the-flysight-firmware). Please note a non-powered adapter will not connect to a Flysight with <50% charge.
 2. Plug the adapter into your Apple device.
 3. Connect the standard FlySight USB cable from your FlySight to the USB port of the adapter.
 
@@ -56,7 +56,7 @@ iOS devices such as iPhones and smaller iPads may present a warning like "This a
 ### Updating the FlySight Firmware
 **Warning: While we have extensively tested this custom firmware, we make no guarantees of its reliability. This firmware is not officially supported by FlySight. ANY custom firmware has the potential to cause unintended issues, including irreversible damage to your FlySight and/or connected devices. We are not responsible for any loss or damages that result from installing this firmware. Use at your own risk.**
 
-Custom FlySight firmware should only be used if you are not able to connect your FlySight to your iOS device due to power warnings and you do not wish to connect your FlySight to an external power source. This firmware should make no functional changes to the standard [FlySight firmware](https://github.com/flysight/flysight) other than allowing it to connect to most iOS devices without an external power source.
+Custom FlySight firmware should only be used if you are not able to connect your FlySight to your iOS device due to power warnings and you do not wish to connect your FlySight to an external power source. This firmware should make no functional changes to the standard [FlySight firmware](https://github.com/flysight/flysight) other than allowing it to connect to most iOS devices without an external power source. Even with custom firmware an iOS device may not connect to a FlySight with <50% charge.
 
 To update your FlySight's firmware:
 1. Download the [official FlySight firmware updater](http://flysight.ca/wiki/index.php/Firmware_upgrade) onto a computer running Windows 7, macOS, or Linux. Do not install the firmware yet.
