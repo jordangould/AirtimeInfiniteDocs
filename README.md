@@ -42,7 +42,7 @@ While **Airtime: Infinite** can load files from any location on your iOS device,
 To connect your FlySight to your iOS device:
 1. Plug the Lightning power port on the Lightning to USB adapter into a power source. (if applicable)
 	- This can be a standard [Apple Power Brick](https://www.apple.com/shop/product/MD810LL/A/apple-5w-usb-power-adapter) or a [mobile USB power bank](https://www.amazon.com/BESTON-Portable-10000mAh-Recharge-External/dp/B07MX217G9).
-	- This step is only necessary if you are receiving a "Too much power" warning from iOS and do not wish to use our [custom FlySight firmware](#updating-the-flysight-firmware). Please note a non-powered adapter will not connect to a Flysight with <50% charge.
+	- This step is only necessary if you are receiving a "Too much power" warning from iOS and do not wish to use our [custom FlySight firmware](#updating-the-flysight-firmware). Please note that even with custom firmware a non-powered adapter will likely not connect to a Flysight with <50% charge.
 2. Plug the adapter into your Apple device.
 3. Connect the standard FlySight USB cable from your FlySight to the USB port of the adapter.
 
