@@ -51,7 +51,7 @@ A quickly flashing red light indicates your FlySight is sharing data with your A
 ### "Too Much Power" Warnings
 iOS devices such as iPhones and smaller iPads may present a warning like "This accessory requires too much power..." and fail to connect to the FlySight. This warning can be handled by either:
 1. Ensuring that you are using an official [Apple Lightning to USB 3 Camera Adapter](https://www.apple.com/shop/product/MK0W2AM/A/lightning-to-usb-3-camera-adapter) that is connected to a reliable external power source, or
-2. Upgrading your FlySight to use our custom firmware. This is the best option for a truly mobile experience. 
+2. Upgrading your FlySight to use our custom firmware.
 
 ### Updating the FlySight Firmware
 **Warning: While we have extensively tested this custom firmware, we make no guarantees of its reliability. This firmware is not officially supported by FlySight. ANY custom firmware has the potential to cause unintended issues, including irreversible damage to your FlySight and/or connected devices. We are not responsible for any loss or damages that result from installing this firmware. Use at your own risk.**
