@@ -18,6 +18,10 @@ First time using **Airtime: Infinite**? "Too much power" warning? Skip to [Conne
 		- Dive Angle
 		- Glide Ratio
 		- Horizontal Distance (hDist)
+		- Vertical Acceleration (accV)
+		- Parallel Acceleration (accParallel) 
+		- Perpendicular Acceleration (accPerp)
+		- Total Acceleration (accTotal)
 
 - **Map View** - Aerial overlay of a track against terrain
 - **Data Point Stat View** - Flight data at individual points on the track
